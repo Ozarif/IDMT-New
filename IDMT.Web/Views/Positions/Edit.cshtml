@@ -1,0 +1,130 @@
+﻿@* @model EditPositionVM
+<div class="d-flex align-items-center justify-content-center">
+	<div class="card shadow border-0 w-100">
+		<div class="card-header bg-primary bg-gradient">
+			<div class="row">
+				<div class="text-start">
+					<h4 class="text-white"><i class="bi bi-diagram-3-fill h4"></i> Edit Position</h4>
+				</div>
+			</div>
+		</div>
+		<div class="card-body border">
+			<form asp-controller="Positions" asp-action="Update" method="post" class="row" onsubmit="selectAllTargetItems()">
+				<div class="">
+					<input type="hidden" asp-for="Position.Id" />
+					<input type="hidden" asp-for="Position.IsActive" />
+					<div class="form-floating py-1 ">
+						<input asp-for="Position.Name" class="form-control border shadow" placeholder="Name" />
+						<label asp-for="Position.Name" class="ms-2"></label>
+						<span asp-validation-for="Position.Name" class="text-danger"></span>
+					</div>
+					<div class="form-floating py-4">
+						<div class="card shadow border-0 w-100">
+							<div class="card-header bg-primary bg-gradient">
+								<div class="row">
+									<div class="text-start">
+										<h4 class="text-white"><i class="bi bi-bag-plus-fill h4"></i> Assign Applications</h4>
+									</div>
+								</div>
+							</div>
+							<div class="card-body border">
+
+								<div class="row">
+									<div class="col-md-5">
+										<label for="sourceListBox" class="form-label h5">Applications</label>
+										<select id="sourceListBox" class="form-select border shadow" multiple size="10">
+											@foreach (var app in Model.Applications)
+											{
+												<option value="@app.Id">@app.Name</option>
+											}
+										</select>
+									</div>
+
+									<div class="col-md-2 d-flex flex-column align-items-center justify-content-center">
+										<button type="button" id="moveToTarget" class="btn btn-primary mb-2">&gt;</button>
+										<button type="button" id="moveToSource" class="btn btn-secondary">&lt;</button>
+									</div>
+
+									<div class="col-md-5">
+										<label for="targetListBox" class="form-label h5">@Model.Position.Name Applications</label>
+										<select id="targetListBox" name="SelectedApplications" class="form-select border shadow" multiple size="10">
+											@foreach (var selectedApp in Model.PositionApplications)
+											{
+												<option value="@selectedApp.Id">@selectedApp.Name</option>
+											}
+										</select>
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+					
+					<div class="row pt-2">
+						<div class="col-6 col-md-3">
+							<button type="submit" class="btn btn-info shadow w-100">
+								<i class="bi bi-check-circle"></i> Update
+							</button>
+						</div>
+						<div class="col-6 col-md-3">
+							<a asp-controller="Positions" asp-action="Index" class="btn btn-secondary shadow w-100">
+								<i class="bi bi-x-circle"></i> Cancel
+							</a>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+@section Scripts {
+	@{
+		<partial name="_ValidationScriptsPartial" />
+	}
+
+	<script>
+		document.getElementById('moveToTarget').addEventListener('click', function () {
+			moveItems('sourceListBox', 'targetListBox');
+		});
+
+		document.getElementById('moveToSource').addEventListener('click', function () {
+			moveItems('targetListBox', 'sourceListBox');
+		});
+
+		function moveItems(sourceId, targetId) {
+			var sourceListBox = document.getElementById(sourceId);
+			var targetListBox = document.getElementById(targetId);
+			var selectedItems = [...sourceListBox.selectedOptions];
+
+			selectedItems.forEach(item => {
+				targetListBox.add(item);
+			});
+
+			sortListBox(targetListBox);
+			sortListBox(sourceListBox);
+		}
+
+		function sortListBox(listBox) {
+			var items = [...listBox.options];
+			items.sort((a, b) => a.text.localeCompare(b.text));
+
+			listBox.innerHTML = "";
+			items.forEach(item => {
+				listBox.add(item);
+			});
+		}
+		function selectAllTargetItems() {
+			var targetListBox = document.getElementById('targetListBox');
+			// var targetItems = [...targetListBox.options].map(option => option.value);
+			// document.getElementById('targetItems').value = targetItems.join(',');
+
+			for (var i = 0; i < targetListBox.options.length; i++) {
+				targetListBox.options[i].selected = true;
+			}
+		}
+
+	</script>
+}
+
+
+ *@

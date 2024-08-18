@@ -1,0 +1,53 @@
+﻿@using IDMT.Infrastructure.Identity
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<nav id="idmt-nav" class="navbar navbar-expand-lg bg-dark bg-gradient border-bottom box-shadow mb-3" data-bs-theme="dark">
+	<div class="container-fluid">
+		<a class="navbar-brand text-center" href="#">Identity Management</a>
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarColor02">
+			<ul class="navbar-nav me-auto">
+				@if (SignInManager.IsSignedIn(User))
+				{
+					<li class="nav-item">
+						<a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" asp-controller="Employees" asp-action="Index">Employees</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Manage Users</a>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Contents Management</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="#">Branches</a>
+							<a class="dropdown-item" href="#">Divisions</a>
+							<a class="dropdown-item" href="#">Departments</a>
+							<div class="dropdown-divider"></div>
+							<a class="dropdown-item" asp-controller="Positions" asp-action="Index">Positions</a>
+							<a class="dropdown-item" asp-controller="SupportGroups" asp-action="Index">Support Groups</a>
+							<a class="dropdown-item" asp-controller="HrJobs" asp-action="Index">HR Jobs</a>
+						</div>
+					</li>
+				}
+			</ul>
+			<partial name="_LoginPartial" />
+		</div>
+	</div>
+</nav>
+@section Scripts {
+	<script type="text/javascript">
+
+	</script>
+}
+
+
+
+
+

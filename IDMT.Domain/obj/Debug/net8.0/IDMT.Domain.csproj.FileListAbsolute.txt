@@ -1,0 +1,37 @@
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\bin\Debug\net8.0\IDMT.Domain.deps.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\bin\Debug\net8.0\IDMT.Domain.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\bin\Debug\net8.0\IDMT.Domain.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.csproj.AssemblyReference.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.AssemblyInfoInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.AssemblyInfo.cs
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.csproj.CoreCompileInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\refint\IDMT.Domain.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\ref\IDMT.Domain.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\bin\Debug\net8.0\IDMT.Domain.deps.json
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\bin\Debug\net8.0\IDMT.Domain.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\bin\Debug\net8.0\IDMT.Domain.pdb
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.csproj.AssemblyReference.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.AssemblyInfoInputs.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.AssemblyInfo.cs
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.csproj.CoreCompileInputs.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\refint\IDMT.Domain.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.pdb
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\ref\IDMT.Domain.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.sourcelink.json
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\bin\Debug\net8.0\IDMT.Domain.deps.json
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\bin\Debug\net8.0\IDMT.Domain.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\bin\Debug\net8.0\IDMT.Domain.pdb
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.csproj.AssemblyReference.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.AssemblyInfoInputs.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.AssemblyInfo.cs
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.csproj.CoreCompileInputs.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\obj\Debug\net8.0\refint\IDMT.Domain.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\obj\Debug\net8.0\IDMT.Domain.pdb
+C:\ZarifO\dotnet\IDMT\IDMT.Domain\obj\Debug\net8.0\ref\IDMT.Domain.dll

@@ -1,0 +1,66 @@
+﻿@* @model AssignApplicationsVM
+
+
+<div class="row">
+	<div class="col-md-5">
+		<label for="sourceListBox" class="form-label">Applications</label>
+		<select id="sourceListBox" class="form-select" multiple size="10">
+			@foreach (var app in Model.Applications)
+			{
+				<option value="@app.Id">@app.Name</option>
+			}
+		</select>
+	</div>
+
+	<div class="col-md-2 d-flex flex-column align-items-center justify-content-center">
+		<button type="button" id="moveToTarget" class="btn btn-primary mb-2">&gt;</button>
+		<button type="button" id="moveToSource" class="btn btn-secondary">&lt;</button>
+	</div>
+
+	<div class="col-md-5">
+		<label for="targetListBox" class="form-label">Assigned Applications</label>
+		<select id="targetListBox" name="SelectedApplications" class="form-select" multiple size="10">
+			@foreach (var selectedApp in Model.Assignedpplications)
+			{
+				<option value="@selectedApp.Id">@selectedApp.Name</option>
+			}
+		</select>
+	</div>
+</div>
+
+
+<script>
+	document.getElementById('moveToTarget').addEventListener('click', function () {
+		moveItems('sourceListBox', 'targetListBox');
+	});
+
+	document.getElementById('moveToSource').addEventListener('click', function () {
+		moveItems('targetListBox', 'sourceListBox');
+	});
+
+	function moveItems(sourceId, targetId) {
+		var sourceListBox = document.getElementById(sourceId);
+		var targetListBox = document.getElementById(targetId);
+		var selectedItems = [...sourceListBox.selectedOptions];
+
+		selectedItems.forEach(item => {
+			targetListBox.add(item);
+		});
+
+		sortListBox(targetListBox);
+		sortListBox(sourceListBox);
+	}
+
+	function sortListBox(listBox) {
+		var items = [...listBox.options];
+		items.sort((a, b) => a.text.localeCompare(b.text));
+
+		listBox.innerHTML = "";
+		items.forEach(item => {
+			listBox.add(item);
+		});
+	}
+</script>
+
+
+ *@

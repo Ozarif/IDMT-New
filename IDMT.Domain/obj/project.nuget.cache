@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pAN59YeD8bSmFNpimnY3fmtH74SdiogS6LA1PuAjYCoJmqMQQAhtOto6CEysDNf6SNwUmPODhjr3zXx7HbQnzg==",
+  "success": true,
+  "projectFilePath": "C:\\ZarifO\\dotnet\\IDMT\\IDMT.Domain\\IDMT.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.3\\microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

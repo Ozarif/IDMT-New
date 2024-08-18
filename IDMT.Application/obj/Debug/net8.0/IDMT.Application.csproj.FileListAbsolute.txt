@@ -1,0 +1,91 @@
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.deps.json
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.pdb
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.pdb
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.AssemblyReference.cache
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.GeneratedMSBuildEditorConfig.editorconfig
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfoInputs.cache
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfo.cs
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.CoreCompileInputs.cache
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.CopyComplete
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\refint\IDMT.Application.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.pdb
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\ref\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.deps.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.AssemblyReference.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfoInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfo.cs
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.CoreCompileInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.App.07538ED5.Up2Date
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\refint\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\ref\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.deps.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.AssemblyReference.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfoInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfo.cs
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.CoreCompileInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.App.07538ED5.Up2Date
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\refint\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Application\obj\Debug\net8.0\ref\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.deps.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.AssemblyReference.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfoInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfo.cs
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.CoreCompileInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.App.07538ED5.Up2Date
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\refint\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\ref\IDMT.Application.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.deps.json
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.pdb
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.pdb
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.AssemblyReference.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfoInputs.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfo.cs
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.CoreCompileInputs.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.CopyComplete
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\refint\IDMT.Application.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.pdb
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\ref\IDMT.Application.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.sourcelink.json
+C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.AssemblyReference.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfoInputs.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.AssemblyInfo.cs
+C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.CoreCompileInputs.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\refint\IDMT.Application.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.pdb
+C:\ZarifO\dotnet\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.deps.json
+C:\ZarifO\dotnet\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Application.pdb
+C:\ZarifO\dotnet\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.pdb
+C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.CopyComplete
+C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\ref\IDMT.Application.dll

@@ -1,0 +1,40 @@
+﻿@{
+	ViewData["Title"] = "HR Jobs Page";
+}
+
+<link href="~/css/msf.css" rel="stylesheet" />
+<div class="p-4">
+	<div class="card border-0 ">
+		<div class="card-header bg-primary bg-gradient">
+			<div class="row">
+				<div class="text-start text-white">
+					<h4 class=""><i class="bi bi-list-task h4"></i> HR Jobs</h4>
+				</div>
+			</div>
+		</div>
+		<div class="card-body p-4">
+			<div class="row pb-3">
+				<div>
+					<a asp-controller="HrJobs" asp-action="Create" class="btn btn-info">
+						<i class="bi bi-plus-circle"></i> Create New HR Job
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<table id="tblData" class="table table-bordered table-striped">
+					<thead class="table-info">
+						<tr>
+							<th>Name</th>
+							<th></th>
+						</tr>
+					</thead>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+@section Scripts {
+	<script src="~/js/hrJobs.js" asp-append-version="true"></script>
+}

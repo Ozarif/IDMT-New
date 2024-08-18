@@ -1,0 +1,907 @@
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.Development.json
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.json
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.staticwebassets.runtime.json
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.exe
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.deps.json
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.runtimeconfig.json
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.pdb
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\AutoMapper.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Core.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Identity.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Humanizer.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.CodeDom.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Memory.Data.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.pdb
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.pdb
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.pdb
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.AssemblyReference.cache
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfoInputs.cache
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfo.cs
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.CoreCompileInputs.cache
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.MvcApplicationPartsAssemblyInfo.cache
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cache
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cs
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.build.json
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.development.json
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.IDMT.Web.Microsoft.AspNetCore.StaticWebAssets.props
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.IDMT.Web.props
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IDMT.Web.props
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IDMT.Web.props
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.pack.json
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\bundle\IDMT.Web.styles.css
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\projectbundle\IDMT.Web.bundle.scp.css
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.CopyComplete
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\refint\IDMT.Web.dll
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.pdb
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.genruntimeconfig.cache
+\\gmjstdv\apps\Banking\bpwin125\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\ref\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.Development.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.staticwebassets.runtime.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.exe
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.deps.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.runtimeconfig.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\AutoMapper.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Core.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Identity.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Humanizer.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.CodeDom.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Memory.Data.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.AssemblyReference.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfoInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfo.cs
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.CoreCompileInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cs
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.development.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.IDMT.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.IDMT.Web.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IDMT.Web.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IDMT.Web.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.pack.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\bundle\IDMT.Web.styles.css
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\projectbundle\IDMT.Web.bundle.scp.css
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.Up2Date
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\refint\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.genruntimeconfig.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\ref\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.AssemblyReference.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfoInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfo.cs
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.CoreCompileInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cs
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\refint\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.Development.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.staticwebassets.runtime.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.exe
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.deps.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.runtimeconfig.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\AutoMapper.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Core.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Identity.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Humanizer.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.CodeDom.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Memory.Data.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.development.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.IDMT.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.IDMT.Web.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IDMT.Web.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IDMT.Web.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.pack.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\bundle\IDMT.Web.styles.css
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\projectbundle\IDMT.Web.bundle.scp.css
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.Up2Date
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.genruntimeconfig.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\ref\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\MediatR.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\IDMT\IDMT.Web\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.AssemblyReference.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfoInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfo.cs
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.CoreCompileInputs.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cs
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.Development.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.staticwebassets.runtime.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.exe
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.deps.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.runtimeconfig.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Core.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Identity.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\FluentValidation.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Humanizer.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\MediatR.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.CodeDom.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Memory.Data.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.development.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.IDMT.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.IDMT.Web.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IDMT.Web.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IDMT.Web.props
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.pack.json
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\bundle\IDMT.Web.styles.css
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\projectbundle\IDMT.Web.bundle.scp.css
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.Up2Date
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\refint\IDMT.Web.dll
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.pdb
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.genruntimeconfig.cache
+E:\BP_Operation_Env\DevEnv\VS_PRO\BM Projects\Net\Project 2022\ISBC\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\ref\IDMT.Web.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.json
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.staticwebassets.runtime.json
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.exe
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.deps.json
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.runtimeconfig.json
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.pdb
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\FluentValidation.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Humanizer.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\MediatR.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.pdb
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.pdb
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.pdb
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.AssemblyReference.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfoInputs.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfo.cs
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.CoreCompileInputs.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cs
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.IDMT.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.IDMT.Web.props
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IDMT.Web.props
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IDMT.Web.props
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\bundle\IDMT.Web.styles.css
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\projectbundle\IDMT.Web.bundle.scp.css
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.CopyComplete
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\refint\IDMT.Web.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.pdb
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.genruntimeconfig.cache
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\ref\IDMT.Web.dll
+C:\ZarifO\dotnet\DDD\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.sourcelink.json
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\refint\IDMT.Web.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.pdb
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\appsettings.json
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.staticwebassets.runtime.json
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.exe
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.deps.json
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.runtimeconfig.json
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Web.pdb
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\FluentValidation.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Humanizer.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\MediatR.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Application.pdb
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Infrastructure.pdb
+C:\ZarifO\dotnet\IDMT\IDMT.Web\bin\Debug\net8.0\IDMT.Domain.pdb
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.AssemblyReference.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfoInputs.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.AssemblyInfo.cs
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.CoreCompileInputs.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.RazorAssemblyInfo.cs
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.IDMT.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.IDMT.Web.props
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IDMT.Web.props
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IDMT.Web.props
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\bundle\IDMT.Web.styles.css
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\projectbundle\IDMT.Web.bundle.scp.css
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.CopyComplete
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.genruntimeconfig.cache
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\ref\IDMT.Web.dll

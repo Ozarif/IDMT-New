@@ -1,0 +1,47 @@
+﻿@using IDMT.Web.ViewModels.SupportGroups
+@model SupportGroupModel
+<div class="d-flex align-items-center justify-content-center">
+	<div class="card shadow border-0 w-50">
+		<div class="card-header bg-primary bg-gradient">
+			<div class="row">
+				<div class="text-start">
+					<h4 class="text-white"><i class="bi bi-people-fill h4"></i> Delete Support Group</h4>
+				</div>
+			</div>
+		</div>
+		<div class="card-body border">
+			<form method="post" class="row">
+				<div class="">
+					<input type="hidden" asp-for="Id" />
+					<div class="form-floating py-1 ">
+						<input asp-for="Name" class="form-control border shadow" placeholder="Name" readonly />
+						<label asp-for="Name" class="ms-2"></label>
+						<span asp-validation-for="Name" class="text-danger"></span>
+					</div>
+					<div class="form-floating py-1 ">
+						<input asp-for="Email" class="form-control border shadow" placeholder="Email" readonly />
+						<label asp-for="Email" class="ms-2"></label>
+						<span asp-validation-for="Email" class="text-danger"></span>
+					</div>
+					<div class="row pt-2">
+						<div class="col-6 col-md-3">
+							<button type="submit" class="btn btn-danger shadow w-100">
+								<i class="bi bi-check-circle"></i> Delete
+							</button>
+						</div>
+						<div class="col-6 col-md-3">
+							<a asp-controller="SupportGroups" asp-action="Index" class="btn btn-secondary shadow w-100">
+								<i class="bi bi-x-circle"></i> Cancel
+							</a>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+@section Scripts {
+	@{
+		<partial name="_ValidationScriptsPartial" />
+	}
+}
