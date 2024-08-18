@@ -905,3 +905,4 @@ C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\scopedcss\projectbundle\IDMT.Web
 C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.csproj.CopyComplete
 C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.genruntimeconfig.cache
 C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\ref\IDMT.Web.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Web\obj\Debug\net8.0\IDMT.Web.sourcelink.json

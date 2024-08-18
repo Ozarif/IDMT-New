@@ -13,7 +13,7 @@ namespace IDMT.Domain.Positions
 {
     public sealed class Position : Entity
 	{
-		private readonly HashSet<PositionResource> _positionResources = new();
+		private readonly HashSet<Resource> _resources = new();
         private Position(Guid id, string name) : base(id)
 		{
 			Name = name;
@@ -22,7 +22,7 @@ namespace IDMT.Domain.Positions
 
 		public string Name { get; private set; }
 		public bool IsActive { get; private set; }
-		public IReadOnlyCollection<PositionResource> PositionResources => _positionResources.ToList();
+		public IReadOnlyCollection<Resource> Resources => _resources.ToList();
 
 		public static Position Create(string name)
 		{
@@ -32,22 +32,15 @@ namespace IDMT.Domain.Positions
 		}
 		public Result AddResource(Resource resource)
 		{
-			if (_positionResources.Any(pa => pa.ResourceId == resource.Id))
-			{
-				return Result.Failure(PositionErrors.AlreadyAssigned);
-			}
-
-			var positionResource = new PositionResource(Id,resource.Id);
-			_positionResources.Add(positionResource);
+			_resources.Add(resource);
 
 			return Result.Success();
 		}
 		public void RemoveApplication(Resource resource)
-		{
-			var positionResource = _positionResources.FirstOrDefault(pa => pa.PositionId == Id && pa.ResourceId == resource.Id);
-			if (positionResource != null)
+		{			
+			if (_resources.Count > 0)
 			{
-				_positionResources.Remove(positionResource);
+				_resources.Remove(resource);
 			}
 		}
 	}

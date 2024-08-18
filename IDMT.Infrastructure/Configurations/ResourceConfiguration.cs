@@ -29,9 +29,27 @@ namespace IDMT.Infrastructure.Configurations
 							.HasForeignKey(resource => resource.SupportGroupId);
 
 
-			builder.HasMany(a => a.ResourcePositions)
-					.WithOne()
-					.HasForeignKey(pr => pr.ResourceId);
+			// builder.HasMany(a => a.ResourcePositions)
+			// 		.WithOne()
+			// 		.HasForeignKey(pr => pr.ResourceId);
+
+			builder
+            .HasMany(e => e.Positions)
+            .WithMany(e => e.Resources)
+            .UsingEntity<Dictionary<string, object>>(
+                "PositionsResources",
+                j => j
+                    .HasOne<Position>()
+                    .WithMany()
+                    .HasForeignKey("PositionId")
+                    .HasConstraintName("FK_PositionsResources_PositionId")
+                    .OnDelete(DeleteBehavior.Cascade),
+                j => j
+                    .HasOne<Resource>()
+                    .WithMany()
+                    .HasForeignKey("ResourceId")
+                    .HasConstraintName("FK_PositionsResources_ResourceId")
+                    .OnDelete(DeleteBehavior.Cascade));
 
 		}
 	}

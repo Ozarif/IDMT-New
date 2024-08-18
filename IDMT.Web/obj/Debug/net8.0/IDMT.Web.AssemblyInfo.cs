@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IDMT.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec1fc0cfe6f75c7b4d006e11417e04e3ea3f8958")]
 [assembly: System.Reflection.AssemblyProductAttribute("IDMT.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IDMT.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

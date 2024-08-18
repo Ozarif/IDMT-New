@@ -113,3 +113,4 @@ C:\ZarifO\dotnet\IDMT\IDMT.Infrastructure\bin\Debug\net8.0\IDMT.Domain.pdb
 C:\ZarifO\dotnet\IDMT\IDMT.Infrastructure\obj\Debug\net8.0\IDMT.Infrastructure.csproj.CopyComplete
 C:\ZarifO\dotnet\IDMT\IDMT.Infrastructure\obj\Debug\net8.0\IDMT.Infrastructure.genruntimeconfig.cache
 C:\ZarifO\dotnet\IDMT\IDMT.Infrastructure\obj\Debug\net8.0\ref\IDMT.Infrastructure.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Infrastructure\obj\Debug\net8.0\IDMT.Infrastructure.sourcelink.json

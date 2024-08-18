@@ -13,7 +13,7 @@ namespace IDMT.Domain.Resources;
 
 public sealed class Resource : Entity
 {
-	private readonly List<PositionResource> _positionResources = new();
+	private readonly List<Position> _Positions = new();
 
 	private Resource() { }
 	private Resource(Guid id, ResourceType resourceType, string name, Guid supportGroupId) : base(id)
@@ -28,7 +28,7 @@ public sealed class Resource : Entity
 
 	public Guid SupportGroupId { get; private set; }
 
-	public IReadOnlyCollection<PositionResource> ResourcePositions => _positionResources.ToList();
+	public IReadOnlyCollection<Position> Positions => _Positions.ToList();
 
 	public static Resource Create(ResourceType resourceType, string name, SupportGroup supportGroup)
 	{
@@ -37,22 +37,15 @@ public sealed class Resource : Entity
 
 	public Result AssignToPosition(Position position)
 	{
-		if (_positionResources.Any(pa => pa.PositionId == position.Id))
-		{
-			return Result.Failure(PositionErrors.AlreadyAssigned);
-		}
-
-		var positionResource = new PositionResource(position.Id, Id);
-		_positionResources.Add(positionResource);
+	_Positions.Add(position);
 
 		return Result.Success();
 	}
 	public Result RemoveFromPosition(Position position)
 	{
-		var positionResource = _positionResources.FirstOrDefault(pa => pa.ResourceId == Id && pa.PositionId == position.Id);
-		if (positionResource != null)
+		if (_Positions.Count > 0)
 		{
-			_positionResources.Remove(positionResource);
+			_Positions.Remove(position);
 			return Result.Success();
 		}
 		return Result.Failure(ResourceErrors.NotFound);

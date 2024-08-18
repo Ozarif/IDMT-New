@@ -89,3 +89,4 @@ C:\ZarifO\dotnet\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.dll
 C:\ZarifO\dotnet\IDMT\IDMT.Application\bin\Debug\net8.0\IDMT.Domain.pdb
 C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.csproj.CopyComplete
 C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\ref\IDMT.Application.dll
+C:\ZarifO\dotnet\IDMT\IDMT.Application\obj\Debug\net8.0\IDMT.Application.sourcelink.json

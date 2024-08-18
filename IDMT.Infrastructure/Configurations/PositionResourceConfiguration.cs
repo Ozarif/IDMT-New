@@ -9,12 +9,12 @@ using System.Threading.Tasks;
 
 namespace IDMT.Infrastructure.Configurations
 {
-	internal class PositionResourceConfiguration : IEntityTypeConfiguration<PositionResource>
-	{
-		public void Configure(EntityTypeBuilder<PositionResource> builder)
-		{
-			builder.ToTable("PositionsResources");
-			builder.HasKey(positionResource => new { positionResource.PositionId, positionResource.ResourceId });
-		}
-	}
+	// internal class PositionResourceConfiguration : IEntityTypeConfiguration<PositionResource>
+	// {
+	// 	public void Configure(EntityTypeBuilder<PositionResource> builder)
+	// 	{
+	// 		builder.ToTable("PositionsResources");
+	// 		builder.HasKey(positionResource => new { positionResource.PositionId, positionResource.ResourceId });
+	// 	}
+	// }
 }
