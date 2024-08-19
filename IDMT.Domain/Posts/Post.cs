@@ -1,6 +1,5 @@
 ﻿using IDMT.Domain.Abstractions;
 using IDMT.Domain.Employees;
-using IDMT.Domain.PositionsResources;
 using IDMT.Domain.Posts.Events;
 using MediatR;
 using System;

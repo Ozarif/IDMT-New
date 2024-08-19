@@ -37,12 +37,16 @@ namespace IDMT.Domain.SupportGroups
 			IsActive = false;
 			RaiseDomainEvent(new SupportGroupDeletedDomainEvent(Id));
 		}
+		public void Activate()
+		{
+			IsActive = true;
+		}
 		public bool IsActive { get; private set; }
 
 		public static SupportGroup Create(string name, string email)
 		{
 			var supportGroup = new SupportGroup(Guid.NewGuid(), name, email);
-			supportGroup.IsActive = true;
+			supportGroup.Activate();
 
 			supportGroup.RaiseDomainEvent(new SupportGroupCreatedDomainEvent(supportGroup.Id));
 			return supportGroup;

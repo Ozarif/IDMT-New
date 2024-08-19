@@ -1,12 +1,5 @@
 ﻿using IDMT.Domain.Abstractions;
-using IDMT.Domain.PositionsResources;
 using IDMT.Domain.Resources;
-using IDMT.Domain.Shared;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 
 namespace IDMT.Domain.Positions
@@ -27,21 +20,32 @@ namespace IDMT.Domain.Positions
 		public static Position Create(string name)
 		{
 			var position = new Position(Guid.NewGuid(), name);
-			position.IsActive =true;
+			position.Activate();
 			return position;
+		}
+
+		public Result Activate(){
+			IsActive = true;
+			return Result.Success();
+		}
+
+		public Result Deactivate()
+		{
+			IsActive = false;
+			return Result.Success();
 		}
 		public Result AddResource(Resource resource)
 		{
 			_resources.Add(resource);
-
 			return Result.Success();
 		}
-		public void RemoveApplication(Resource resource)
+		public Result RemoveApplication(Resource resource)
 		{			
 			if (_resources.Count > 0)
 			{
-				_resources.Remove(resource);
+				_resources.Remove(resource);			
 			}
+			return Result.Success();
 		}
 	}
 }

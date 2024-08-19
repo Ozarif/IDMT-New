@@ -1,4 +1,4 @@
-﻿using IDMT.Domain.ActiveDirectoryAccounts;
+﻿using IDMT.Domain.IdentityAccounts;
 using IDMT.Domain.Employees;
 using IDMT.Domain.Shared;
 using Microsoft.EntityFrameworkCore;
@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace IDMT.Infrastructure.Configurations
 {
-    internal sealed class ActiveDirectoryAccountConfiguration : IEntityTypeConfiguration<ActiveDirectoryAccount>
+    internal sealed class IdentityAccountConfiguration : IEntityTypeConfiguration<IdentityAccount>
 	{
-		public void Configure(EntityTypeBuilder<ActiveDirectoryAccount> builder)
+		public void Configure(EntityTypeBuilder<IdentityAccount> builder)
 		{
 			builder.ToTable("ActiveDirectoryAccounts");
 			builder.HasKey(AdAccount => AdAccount.Id);

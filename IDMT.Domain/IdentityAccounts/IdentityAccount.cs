@@ -6,20 +6,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IDMT.Domain.ActiveDirectoryAccounts
+namespace IDMT.Domain.IdentityAccounts
 {
-    public sealed class ActiveDirectoryAccount : AuditableEntity
+    public sealed class IdentityAccount : AuditableEntity
     {
-        private ActiveDirectoryAccount()
-        {
-
-        }
-        internal ActiveDirectoryAccount(Guid id,
+        private IdentityAccount()
+        {}
+        internal IdentityAccount(Guid id,
                         Guid employeeId,
                         string loginName,
                         string profile) : base(id)
         {
-
             EmployeeId = employeeId;
             LoginName = loginName;
             Profile = profile;
@@ -31,18 +28,29 @@ namespace IDMT.Domain.ActiveDirectoryAccounts
         public bool IsMain { get; private set; }
         public bool IsActive { get; private set; }
 
-        public static ActiveDirectoryAccount Create(Guid EmployeeId, string LoginName, string Profile)
+        public static IdentityAccount Create(Guid EmployeeId, string LoginName, string Profile)
         {
-            var account = new ActiveDirectoryAccount(Guid.NewGuid(), EmployeeId, LoginName, Profile);
-            account.IsActive = true;
+            var account = new IdentityAccount(Guid.NewGuid(), EmployeeId, LoginName, Profile);
+            account.Activate();
             account.SetAsMain(false);
 
             return account;
 
         }
-        public void SetAsMain(bool isMain)
+        internal Result SetAsMain(bool isMain)
         {
             IsMain = isMain;
+             return Result.Success();
+        }
+        internal Result Activate()
+        {
+            IsActive = true;
+            return Result.Success();
+        }
+        internal Result Deactivate()
+        {
+            IsActive = false;
+            return Result.Success();
         }
     }
 }

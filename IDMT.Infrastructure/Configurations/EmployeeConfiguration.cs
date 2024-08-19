@@ -36,7 +36,7 @@ namespace IDMT.Infrastructure.Configurations
 				.WithMany()
 				.HasForeignKey(hrJob => hrJob.HrJobId);
 			
-			builder.HasMany(a => a.Accounts)
+			builder.HasMany(a => a.IdentityAccounts)
 				.WithOne()
 				.HasForeignKey(AdAccount => AdAccount.EmployeeId);
 

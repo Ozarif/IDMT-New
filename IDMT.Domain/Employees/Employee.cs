@@ -1,13 +1,13 @@
 ﻿using IDMT.Domain.Abstractions;
-using IDMT.Domain.ActiveDirectoryAccounts;
 using IDMT.Domain.Employees.Events;
 using IDMT.Domain.HrJobs;
+using IDMT.Domain.IdentityAccounts;
 
 namespace IDMT.Domain.Employees
 {
 	public sealed class Employee : Entity
 	{
-		private readonly HashSet<ActiveDirectoryAccount> _accounts = new();
+		private readonly HashSet<IdentityAccount> _identityAccounts = new();
 		private Employee(Guid Id, 
 						string hrId, 
 						string firstName, 
@@ -36,7 +36,7 @@ namespace IDMT.Domain.Employees
 		public DateTime? LastPostDate { get; internal set; }
 		public string FullName => new($"{FirstName} {FatherName} {LastName}");
 
-		public IReadOnlyCollection<ActiveDirectoryAccount> Accounts => _accounts.ToList();
+		public IReadOnlyCollection<IdentityAccount> IdentityAccounts => _identityAccounts.ToList();
 
 		public static Employee Create(string hrId,
 						string firstName,
@@ -70,13 +70,13 @@ namespace IDMT.Domain.Employees
 			return Result.Success();
 		}
 
-		public Result AddActiveDirectoryAccount(string LoginName, string Profile, bool SetAsMainAccount)
+		public Result AddIdentityAccount(string LoginName, string Profile, bool SetAsMainAccount)
 		{
-			var newAccount = ActiveDirectoryAccount.Create(Id, LoginName, Profile);
-			newAccount.SetAsMain(SetAsMainAccount);
+			var newIdentityAccount = IdentityAccount.Create(Id, LoginName, Profile);
+			newIdentityAccount.SetAsMain(SetAsMainAccount);
 
 
-			_accounts.Add(newAccount);
+			_identityAccounts.Add(newIdentityAccount);
 			return Result.Success();
 		}
 
@@ -86,6 +86,11 @@ namespace IDMT.Domain.Employees
 			{
 				Status = Status.TERMINATED;
 				TerminationDate = UpdatedOn = DateTime.UtcNow;
+
+				foreach(var identityAccount in _identityAccounts){
+					identityAccount.Deactivate();
+				}
+
 				RaiseDomainEvent(new EmployeeTerminatedDomainEvent(Id));
 			}
 			return Result.Success();

@@ -7,7 +7,6 @@ using IDMT.Domain.SupportGroups;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using IDMT.Domain.Positions;
 using IDMT.Domain.Resources;
-using IDMT.Domain.PositionsResources;
 using IDMT.Domain.Shared;
 using IDMT.Domain.Posts;
 
@@ -29,10 +28,6 @@ namespace IDMT.Infrastructure.Configurations
 							.HasForeignKey(resource => resource.SupportGroupId);
 
 
-			// builder.HasMany(a => a.ResourcePositions)
-			// 		.WithOne()
-			// 		.HasForeignKey(pr => pr.ResourceId);
-
 			builder
             .HasMany(e => e.Positions)
             .WithMany(e => e.Resources)
@@ -50,6 +45,7 @@ namespace IDMT.Infrastructure.Configurations
                     .HasForeignKey("ResourceId")
                     .HasConstraintName("FK_PositionsResources_ResourceId")
                     .OnDelete(DeleteBehavior.Cascade));
+
 
 		}
 	}
