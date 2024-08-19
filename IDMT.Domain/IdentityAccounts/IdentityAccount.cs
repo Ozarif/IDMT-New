@@ -1,4 +1,5 @@
 ﻿using IDMT.Domain.Abstractions;
+using IDMT.Domain.IdentityAccounts.Events;
 using IDMT.Domain.Shared;
 using System;
 using System.Collections.Generic;
@@ -15,32 +16,36 @@ namespace IDMT.Domain.IdentityAccounts
         internal IdentityAccount(Guid id,
                         Guid employeeId,
                         string loginName,
+                        string domain,
                         string profile) : base(id)
         {
             EmployeeId = employeeId;
             LoginName = loginName;
+            Domain = domain;
             Profile = profile;
         }
 
         public Guid EmployeeId { get; private set; }
         public string LoginName { get; private set; }
+        public string Domain { get; private set; }
         public string Profile { get; private set; }
         public bool IsMain { get; private set; }
         public bool IsActive { get; private set; }
 
-        public static IdentityAccount Create(Guid EmployeeId, string LoginName, string Profile)
+        public static IdentityAccount Create(Guid EmployeeId, string LoginName, string domain, string Profile)
         {
-            var account = new IdentityAccount(Guid.NewGuid(), EmployeeId, LoginName, Profile);
-            account.Activate();
-            account.SetAsMain(false);
-
-            return account;
+            var newIdentityAccount = new IdentityAccount(Guid.NewGuid(), EmployeeId, LoginName, domain, Profile);
+            newIdentityAccount.Activate();
+            newIdentityAccount.IsMain = false;
+            newIdentityAccount.RaiseDomainEvent(new IdentityAccountCreatedDomainEvent(newIdentityAccount.Id));
+            return newIdentityAccount;
 
         }
-        internal Result SetAsMain(bool isMain)
+        internal Result SetAsMain()
         {
-            IsMain = isMain;
-             return Result.Success();
+            IsMain = true;
+            RaiseDomainEvent(new IdentityAccountMainChangedDomainEvent(Id));
+            return Result.Success();
         }
         internal Result Activate()
         {
@@ -50,6 +55,7 @@ namespace IDMT.Domain.IdentityAccounts
         internal Result Deactivate()
         {
             IsActive = false;
+            RaiseDomainEvent(new IdentityAccountDeactivatedDomainEvent(Id));
             return Result.Success();
         }
     }

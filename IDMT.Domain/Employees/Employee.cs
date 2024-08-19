@@ -70,13 +70,9 @@ namespace IDMT.Domain.Employees
 			return Result.Success();
 		}
 
-		public Result AddIdentityAccount(string LoginName, string Profile, bool SetAsMainAccount)
+		public Result AddIdentityAccount(IdentityAccount identityAccount)
 		{
-			var newIdentityAccount = IdentityAccount.Create(Id, LoginName, Profile);
-			newIdentityAccount.SetAsMain(SetAsMainAccount);
-
-
-			_identityAccounts.Add(newIdentityAccount);
+			_identityAccounts.Add(identityAccount);
 			return Result.Success();
 		}
 
